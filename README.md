@@ -2,12 +2,10 @@
 FeiyangWang 🤩 </h1>
 
 <h1 align="center">
-✨ where you can find me ✨
+✨ where you can contect me ✨
 
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/erika-lopes/">
-    <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue" alt="">
-  </a>
+  <h1 align="center">wfy123_2025@foxmail.com </h1>
 </p>
 </h1>
 

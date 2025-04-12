@@ -9,4 +9,3 @@ FeiyangWang 🤩 </h1>
 </p>
 </h1>
 
-<h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
